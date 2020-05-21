@@ -1,0 +1,10 @@
+{
+  "name": "xmlTree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YouHan26/xmlTree",
+  "author": "youhan26 <youhan26@gmail.com>",
+  "dependencies": {
+    "d3": "^5.16.0"
+  }
+}
